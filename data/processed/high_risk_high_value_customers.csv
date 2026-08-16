@@ -1,0 +1,346 @@
+customerID,tenure,Contract,PaymentMethod,MonthlyCharges,TotalCharges,Churn,ChurnProbability,RiskLevel,PriorityScore,HighValue
+7216-EWTRS,1,Month-to-month,Electronic check,100.8,100.8,Yes,0.9504408,High,92.0,True
+5419-JPRRN,1,Month-to-month,Electronic check,101.45,101.45,Yes,0.9350582,High,91.08,True
+3178-FESZO,1,Month-to-month,Credit card (automatic),100.25,100.25,Yes,0.9296965,High,90.41,True
+0107-YHINA,1,Month-to-month,Electronic check,99.75,99.75,Yes,0.92353696,High,89.85,True
+9300-AGZNL,1,Month-to-month,Electronic check,94.0,94.0,Yes,0.94320333,High,89.77,True
+5178-LMXOP,1,Month-to-month,Electronic check,95.1,95.1,Yes,0.9371449,High,89.63,True
+9497-QCMMS,1,Month-to-month,Electronic check,93.55,93.55,Yes,0.94254744,High,89.61,True
+2012-NWRPA,11,Month-to-month,Electronic check,99.55,1131.2,Yes,0.91927344,High,89.5,True
+4910-GMJOT,1,Month-to-month,Electronic check,94.6,94.6,Yes,0.93695974,High,89.49,True
+8149-RSOUN,1,Month-to-month,Electronic check,93.85,93.85,Yes,0.93714917,High,89.31,True
+0295-PPHDO,1,Month-to-month,Electronic check,95.45,95.45,Yes,0.93129086,High,89.3,True
+0897-FEGMU,11,Month-to-month,Electronic check,99.5,1056.95,Yes,0.91044223,High,88.87,True
+6861-XWTWQ,7,Month-to-month,Electronic check,99.25,665.45,Yes,0.9084342,High,88.66,True
+1455-UGQVH,10,Month-to-month,Electronic check,98.5,1037.75,Yes,0.9040338,High,88.17,True
+1875-QIVME,2,Month-to-month,Electronic check,104.4,242.8,Yes,0.8807631,High,88.03,True
+9305-CDSKC,8,Month-to-month,Electronic check,99.65,820.5,Yes,0.8972285,High,87.98,True
+2968-SSGAA,10,Month-to-month,Electronic check,100.6,1060.2,Yes,0.89357007,High,87.96,True
+2446-BEGGB,6,Month-to-month,Electronic check,98.25,560.6,Yes,0.89799404,High,87.68,True
+5293-WXJAK,11,Month-to-month,Bank transfer (automatic),104.05,1133.65,Yes,0.87577295,High,87.59,True
+7181-BQYBV,1,Month-to-month,Electronic check,102.45,102.45,Yes,0.8795041,High,87.45,True
+9681-OXGVC,5,Month-to-month,Electronic check,100.5,514.0,Yes,0.88472307,High,87.32,True
+3158-MOERK,2,Month-to-month,Electronic check,96.0,174.8,Yes,0.8999952,High,87.25,True
+1450-GALXR,10,Month-to-month,Electronic check,98.5,1058.25,Yes,0.8898041,High,87.17,True
+2265-CYWIV,4,Month-to-month,Electronic check,99.6,347.65,Yes,0.88433105,High,87.07,True
+8775-LHDJH,1,Month-to-month,Electronic check,90.6,90.6,Yes,0.91681653,High,87.07,True
+3389-YGYAI,8,Month-to-month,Electronic check,105.5,829.55,Yes,0.8618798,High,86.98,True
+8884-ADFVN,7,Month-to-month,Electronic check,101.95,700.85,Yes,0.8731461,High,86.88,True
+2454-RPBRZ,12,Month-to-month,Electronic check,98.1,1060.2,Yes,0.8863192,High,86.83,True
+0655-RBDUG,7,Month-to-month,Bank transfer (automatic),98.05,713.0,Yes,0.88608724,High,86.8,True
+4078-SAYYN,11,Month-to-month,Electronic check,100.75,1129.75,Yes,0.87642103,High,86.8,True
+2754-SDJRD,8,Month-to-month,Credit card (automatic),100.15,908.55,No,0.87833095,High,86.78,True
+6210-KBBPI,9,Month-to-month,Credit card (automatic),99.45,919.4,Yes,0.87928724,High,86.67,True
+7024-OHCCK,2,Month-to-month,Electronic check,93.85,170.85,Yes,0.8986605,High,86.62,True
+4822-RVYBB,8,Month-to-month,Electronic check,100.6,819.4,Yes,0.87413704,High,86.6,True
+7450-NWRTR,12,Month-to-month,Electronic check,99.45,1200.15,Yes,0.877721,High,86.56,True
+6857-VWJDT,1,Month-to-month,Mailed check,95.65,95.65,Yes,0.8888293,High,86.38,True
+8168-UQWWF,11,Month-to-month,Bank transfer (automatic),97.85,1105.4,Yes,0.8794106,High,86.28,True
+6521-YYTYI,1,Month-to-month,Electronic check,93.3,93.3,Yes,0.8955978,High,86.26,True
+4587-VVTOX,6,Month-to-month,Electronic check,105.3,545.2,Yes,0.85098475,High,86.17,True
+3811-VBYBZ,7,Month-to-month,Electronic check,99.8,673.25,Yes,0.8704894,High,86.15,True
+6688-UZPWD,11,Month-to-month,Electronic check,102.0,1145.35,Yes,0.86224985,High,86.13,True
+0781-LKXBR,9,Month-to-month,Electronic check,100.5,918.6,Yes,0.8677702,High,86.13,True
+2720-WGKHP,2,Month-to-month,Electronic check,94.0,181.7,Yes,0.8873189,High,85.86,True
+9172-ANCRX,10,Month-to-month,Electronic check,98.7,973.25,Yes,0.86958426,High,85.81,True
+9057-SIHCH,3,Month-to-month,Electronic check,96.6,291.9,Yes,0.87719494,High,85.81,True
+2656-TABEH,4,Month-to-month,Electronic check,100.2,420.2,Yes,0.8635504,High,85.76,True
+2612-RANWT,12,Month-to-month,Bank transfer (automatic),100.15,1164.3,Yes,0.8634186,High,85.74,True
+6108-OQZDQ,4,Month-to-month,Electronic check,97.95,384.5,Yes,0.8713612,High,85.74,True
+1400-MMYXY,3,Month-to-month,Electronic check,105.9,334.65,Yes,0.8420487,High,85.7,True
+4424-TKOPW,2,Month-to-month,Electronic check,93.85,196.75,Yes,0.8849356,High,85.65,True
+6023-YEBUP,3,Month-to-month,Electronic check,100.95,329.95,Yes,0.8575125,High,85.53,True
+7526-BEZQB,12,Month-to-month,Electronic check,96.05,1148.1,Yes,0.87517935,High,85.53,True
+7851-WZEKY,2,Month-to-month,Electronic check,95.15,196.9,Yes,0.876272,High,85.38,True
+8098-LLAZX,4,Month-to-month,Electronic check,95.45,396.1,Yes,0.87261146,High,85.2,True
+4445-ZJNMU,9,Month-to-month,Credit card (automatic),99.3,918.75,No,0.8573902,High,85.1,True
+1571-SAVHK,12,Month-to-month,Mailed check,99.95,1132.75,Yes,0.85471946,High,85.08,True
+5167-ZFFMM,1,Month-to-month,Credit card (automatic),90.85,90.85,Yes,0.8871314,High,85.05,True
+1374-DMZUI,4,Month-to-month,Electronic check,94.3,424.45,Yes,0.8740757,High,85.01,True
+3988-RQIXO,1,Month-to-month,Electronic check,91.3,91.3,Yes,0.884312,High,84.97,True
+5380-AFSSK,5,Month-to-month,Mailed check,93.9,486.85,Yes,0.87238246,High,84.79,True
+6496-SLWHQ,3,Month-to-month,Electronic check,105.0,294.45,Yes,0.83173954,High,84.75,True
+3643-AHCFP,7,Month-to-month,Bank transfer (automatic),95.6,644.35,Yes,0.8632235,High,84.58,True
+6356-ELRKD,1,Month-to-month,Electronic check,95.6,95.6,Yes,0.86202025,High,84.49,True
+3006-XIMLN,2,Month-to-month,Bank transfer (automatic),94.2,193.8,Yes,0.86666805,High,84.46,True
+5299-SJCZT,3,Month-to-month,Bank transfer (automatic),101.55,298.35,Yes,0.83993375,High,84.45,True
+3387-VATUS,5,Month-to-month,Bank transfer (automatic),94.85,462.8,Yes,0.8576545,High,84.0,True
+5567-WSELE,3,Month-to-month,Electronic check,94.6,279.55,Yes,0.8576437,High,83.93,True
+7089-IVVAZ,8,Month-to-month,Bank transfer (automatic),103.35,847.3,Yes,0.82446647,High,83.82,True
+3049-SOLAY,3,Month-to-month,Electronic check,95.2,292.85,Yes,0.85369396,High,83.81,True
+4626-GYCZP,7,Month-to-month,Electronic check,93.85,635.6,Yes,0.85821307,High,83.78,True
+3902-FOIGH,12,Month-to-month,Electronic check,101.35,1218.55,Yes,0.8310015,High,83.77,True
+5299-RULOA,10,Month-to-month,Electronic check,100.25,1064.65,Yes,0.8344067,High,83.73,True
+9025-AOMKI,6,Month-to-month,Bank transfer (automatic),93.55,536.4,Yes,0.8581849,High,83.71,True
+9546-CQJSU,2,Month-to-month,Electronic check,91.4,193.6,Yes,0.8660173,High,83.71,True
+4132-KALRO,4,Month-to-month,Mailed check,100.85,399.25,No,0.83162445,High,83.69,True
+8161-QYMTT,7,Month-to-month,Electronic check,94.1,701.3,No,0.8558739,High,83.68,True
+2660-EMUBI,10,Month-to-month,Electronic check,95.35,898.35,Yes,0.85026354,High,83.61,True
+7274-RTAPZ,1,Month-to-month,Electronic check,90.55,90.55,Yes,0.8675147,High,83.6,True
+5150-ITWWB,3,Month-to-month,Electronic check,94.85,335.75,No,0.8509316,High,83.53,True
+2982-VPSGI,11,Month-to-month,Electronic check,94.0,1078.9,Yes,0.8534235,High,83.49,True
+2725-KXXWT,1,Month-to-month,Electronic check,90.75,90.75,Yes,0.86484915,High,83.47,True
+5519-NPHVG,12,Month-to-month,Electronic check,94.2,1046.1,Yes,0.8510969,High,83.37,True
+4927-WWOOZ,2,Month-to-month,Electronic check,91.45,171.45,No,0.86039495,High,83.33,True
+9223-UCPVT,1,Month-to-month,Electronic check,94.4,94.4,Yes,0.84671235,High,83.12,True
+4315-MURBD,12,Month-to-month,Bank transfer (automatic),98.9,1120.95,Yes,0.82987195,High,83.08,True
+1465-VINDH,10,Month-to-month,Credit card (automatic),102.1,1068.85,Yes,0.81832,High,83.08,True
+3027-ZTDHO,1,Month-to-month,Electronic check,89.9,89.9,Yes,0.8608721,High,82.97,True
+7943-RQCHR,9,Month-to-month,Electronic check,94.75,889.9,Yes,0.84286475,High,82.94,True
+3440-JPSCL,6,Month-to-month,Mailed check,99.95,547.65,Yes,0.819295,High,82.6,True
+2462-XIIJB,5,Month-to-month,Electronic check,92.5,452.7,Yes,0.8449495,High,82.51,True
+0702-PGIBZ,4,Month-to-month,Electronic check,101.7,364.55,Yes,0.81031317,High,82.41,True
+5419-CONWX,4,Month-to-month,Credit card (automatic),99.8,442.85,Yes,0.81596977,High,82.33,True
+0564-JJHGS,9,Month-to-month,Electronic check,95.5,829.1,Yes,0.8314273,High,82.33,True
+6137-NICCO,6,Month-to-month,Mailed check,94.05,518.75,No,0.83523524,High,82.23,True
+0684-AOSIH,1,Month-to-month,Electronic check,95.0,95.0,Yes,0.8262763,High,81.84,True
+7234-FECYN,8,Month-to-month,Electronic check,101.35,780.5,Yes,0.79903865,High,81.54,True
+7330-WZLNC,5,Month-to-month,Electronic check,90.8,455.5,Yes,0.83667535,High,81.51,True
+5923-GXUOC,10,Month-to-month,Electronic check,104.4,1081.45,Yes,0.7872701,High,81.48,True
+3473-XIIIT,16,Month-to-month,Electronic check,100.0,1534.75,Yes,0.80169,High,81.38,True
+9725-SCPZG,1,Month-to-month,Electronic check,90.85,90.85,Yes,0.8330769,High,81.27,True
+1579-KLYDT,7,Month-to-month,Electronic check,90.45,593.45,Yes,0.8336498,High,81.21,True
+6956-SMUCM,3,Month-to-month,Credit card (automatic),99.0,287.4,Yes,0.8023415,High,81.17,True
+5052-PNLOS,3,Month-to-month,Bank transfer (automatic),105.35,323.25,Yes,0.77924836,High,81.16,True
+5519-YLDGW,21,Month-to-month,Electronic check,103.9,2254.2,Yes,0.7844247,High,81.16,True
+6892-EZDTG,4,Month-to-month,Electronic check,91.65,365.4,Yes,0.8263917,High,81.0,True
+5797-APWZC,1,Month-to-month,Electronic check,90.6,90.6,Yes,0.8299646,High,80.99,True
+7294-TMAOP,1,Month-to-month,Electronic check,90.55,90.55,Yes,0.8299646,High,80.97,True
+1393-IMKZG,1,Month-to-month,Electronic check,95.85,95.85,No,0.8099807,High,80.91,True
+3398-FSHON,12,Month-to-month,Electronic check,91.3,1094.5,Yes,0.8252122,High,80.83,True
+4236-XPXAV,5,Month-to-month,Mailed check,99.15,465.05,Yes,0.7932282,High,80.57,True
+8622-ZLFKO,6,Month-to-month,Electronic check,90.75,512.25,No,0.823435,High,80.57,True
+1941-HOSAM,1,Month-to-month,Electronic check,90.1,90.1,No,0.8249289,High,80.51,True
+1567-DSCIC,8,Month-to-month,Electronic check,94.0,773.65,Yes,0.8105496,High,80.49,True
+1075-BGWOH,16,Month-to-month,Electronic check,98.75,1587.55,Yes,0.7931331,High,80.47,True
+7548-SEPYI,5,Month-to-month,Electronic check,96.25,512.45,Yes,0.8009892,High,80.39,True
+8780-IXSTS,6,Month-to-month,Electronic check,90.1,521.3,Yes,0.8220768,High,80.31,True
+7295-JOMMD,4,Month-to-month,Bank transfer (automatic),98.1,396.3,Yes,0.7896909,High,80.06,True
+4228-ZGYUW,4,Month-to-month,Electronic check,90.05,368.1,Yes,0.8180349,High,80.01,True
+5095-AESKG,3,Month-to-month,Credit card (automatic),91.5,242.95,Yes,0.8106933,High,79.86,True
+2180-DXNEG,12,Month-to-month,Electronic check,96.0,1062.1,Yes,0.7943085,High,79.85,True
+0754-UKWQP,2,Month-to-month,Electronic check,95.85,197.7,Yes,0.7926089,High,79.7,True
+3992-YWPKO,6,Month-to-month,Credit card (automatic),109.9,669.45,Yes,0.7407619,High,79.62,True
+0880-TKATG,4,Month-to-month,Electronic check,101.15,385.9,Yes,0.77242386,High,79.62,True
+7969-AULMZ,21,Month-to-month,Electronic check,97.35,2119.5,Yes,0.7859412,High,79.61,True
+0680-DFNNY,15,Month-to-month,Electronic check,101.1,1504.05,Yes,0.76976514,High,79.42,True
+3606-TWKGI,13,Month-to-month,Electronic check,106.9,1364.3,Yes,0.74796426,High,79.36,True
+9734-YWGEX,9,Month-to-month,Credit card (automatic),98.3,923.5,Yes,0.7773524,High,79.25,True
+6969-MVBAI,9,Month-to-month,Electronic check,90.1,816.8,No,0.80686444,High,79.24,True
+3621-CEOVK,14,Month-to-month,Electronic check,100.2,1369.8,Yes,0.7701347,High,79.22,True
+6328-ZPBGN,11,Month-to-month,Bank transfer (automatic),95.15,997.65,Yes,0.7873342,High,79.15,True
+7398-SKNQZ,3,Month-to-month,Electronic check,94.9,273.2,No,0.7880044,High,79.14,True
+8510-AWCXC,13,Month-to-month,Electronic check,100.8,1308.1,Yes,0.7661587,High,79.1,True
+3045-XETSH,10,Month-to-month,Electronic check,94.85,953.45,Yes,0.7873068,High,79.07,True
+7780-OTDSO,18,Month-to-month,Electronic check,99.4,1742.95,Yes,0.77071595,High,79.06,True
+9330-IJWIO,13,Month-to-month,Electronic check,100.35,1358.85,Yes,0.76675457,High,79.02,True
+8357-EQXFO,7,Month-to-month,Electronic check,95.35,660.9,Yes,0.78274035,High,78.88,True
+2845-AFFTX,41,Month-to-month,Electronic check,99.8,4259.3,Yes,0.7658422,High,78.82,True
+2034-GDRCN,2,Month-to-month,Electronic check,90.4,168.2,Yes,0.79645056,High,78.59,True
+6683-VLCTZ,20,Month-to-month,Electronic check,98.55,1842.8,Yes,0.7665937,High,78.56,True
+1731-TVIUK,4,Month-to-month,Electronic check,93.5,362.2,Yes,0.7845176,High,78.54,True
+0329-GTIAJ,3,Month-to-month,Electronic check,97.9,315.3,Yes,0.7679412,High,78.49,True
+3217-FZDMN,8,Month-to-month,Credit card (automatic),94.45,742.95,Yes,0.7790163,High,78.39,True
+0722-SVSFK,7,Month-to-month,Electronic check,100.4,715.0,No,0.75612307,High,78.29,True
+3292-PBZEJ,11,Month-to-month,Electronic check,111.4,1183.05,No,0.71625185,High,78.28,True
+7079-QRCBC,24,Month-to-month,Electronic check,98.75,2407.3,Yes,0.76152575,High,78.25,True
+5590-BYNII,22,Month-to-month,Electronic check,100.75,2095.0,Yes,0.75369674,High,78.21,True
+4929-XIHVW,2,Month-to-month,Credit card (automatic),95.5,181.65,No,0.77232236,High,78.19,True
+5565-FILXA,16,Month-to-month,Electronic check,96.15,1529.2,Yes,0.7672901,High,78.0,True
+7938-OUHIO,3,Month-to-month,Electronic check,98.7,293.65,Yes,0.7577227,High,77.98,True
+3393-FMZPV,25,Month-to-month,Electronic check,100.25,2387.75,Yes,0.7505593,High,77.87,True
+1389-CXMLU,3,Month-to-month,Electronic check,91.05,289.1,Yes,0.7838533,High,77.87,True
+4060-LDNLU,7,Month-to-month,Electronic check,96.2,639.7,No,0.7647617,High,77.84,True
+3319-DWOEP,6,Month-to-month,Electronic check,95.75,573.75,Yes,0.7661321,High,77.82,True
+6892-XPFPU,24,Month-to-month,Electronic check,104.25,2433.9,Yes,0.73470813,High,77.77,True
+2430-USGXP,24,Month-to-month,Electronic check,101.05,2391.8,Yes,0.7442094,High,77.62,True
+3874-EQOEP,7,Month-to-month,Mailed check,95.0,655.5,Yes,0.76577425,High,77.6,True
+0094-OIFMO,11,Month-to-month,Electronic check,95.0,1120.3,Yes,0.76578444,High,77.6,True
+6615-NGGZJ,14,Month-to-month,Electronic check,100.55,1415.55,Yes,0.7453439,High,77.58,True
+4021-RQSNY,29,Month-to-month,Electronic check,98.5,3004.15,Yes,0.75223136,High,77.54,True
+4192-GORJT,5,Month-to-month,Electronic check,94.45,498.1,Yes,0.76678586,High,77.54,True
+5956-YHHRX,21,Month-to-month,Electronic check,104.35,2271.85,No,0.7309329,High,77.53,True
+2672-HUYVI,6,Month-to-month,Electronic check,91.1,455.3,Yes,0.77853984,High,77.51,True
+1866-RZZQS,41,Month-to-month,Electronic check,98.4,4187.75,Yes,0.7517415,High,77.48,True
+9809-IMGCQ,22,Month-to-month,Electronic check,96.7,2082.95,Yes,0.75701296,High,77.42,True
+9061-TIHDA,13,Month-to-month,Electronic check,95.25,1233.65,Yes,0.76050687,High,77.3,True
+5883-GTGVD,19,Month-to-month,Electronic check,99.95,1931.75,Yes,0.7428737,High,77.25,True
+9094-AZPHK,15,Month-to-month,Electronic check,100.15,1415.0,No,0.7421942,High,77.25,True
+8118-LSUEL,23,Month-to-month,Electronic check,106.4,2483.5,Yes,0.71860844,High,77.18,True
+7392-YYPYJ,22,Month-to-month,Electronic check,100.65,2415.95,No,0.7391036,High,77.16,True
+4597-NUCQV,24,Month-to-month,Electronic check,101.25,2440.15,Yes,0.7358526,High,77.09,True
+5698-BQJOH,9,Month-to-month,Electronic check,94.4,857.25,Yes,0.7604165,High,77.08,True
+6215-NQCPY,15,Month-to-month,Electronic check,99.7,1566.75,No,0.740357,High,77.01,True
+9547-ITEFG,9,Month-to-month,Credit card (automatic),102.6,897.75,No,0.7285813,High,76.92,True
+9221-OTIVJ,14,Month-to-month,Electronic check,104.85,1531.4,Yes,0.7200871,High,76.89,True
+7209-JCUDS,10,Month-to-month,Electronic check,94.9,1048.85,Yes,0.75565845,High,76.87,True
+2369-UAPKZ,5,Month-to-month,Mailed check,104.1,541.9,Yes,0.72234756,High,76.86,True
+8625-AZYZY,24,Month-to-month,Electronic check,104.65,2542.45,Yes,0.71984303,High,76.83,True
+0011-IGKFF,13,Month-to-month,Electronic check,98.0,1237.85,Yes,0.7413259,High,76.65,True
+0871-URUWO,13,Month-to-month,Credit card (automatic),102.25,1359.0,Yes,0.72571915,High,76.63,True
+6502-HCJTI,7,Month-to-month,Credit card (automatic),94.7,673.1,Yes,0.7513712,High,76.52,True
+8245-UMPYT,16,Month-to-month,Electronic check,96.4,1581.2,Yes,0.74479115,High,76.49,True
+8414-MYSHR,5,Month-to-month,Electronic check,91.4,449.75,Yes,0.76149035,High,76.39,True
+1309-BXVOQ,21,Month-to-month,Electronic check,106.1,2249.95,Yes,0.7054619,High,76.19,True
+0306-JAELE,5,Month-to-month,Electronic check,96.1,453.4,Yes,0.741232,High,76.16,True
+7142-HVGBG,43,Month-to-month,Electronic check,103.0,4414.3,Yes,0.7154873,High,76.11,True
+8374-XGEJJ,43,Month-to-month,Electronic check,101.0,4388.4,Yes,0.7222892,High,76.08,True
+3338-CVVEH,12,Month-to-month,Electronic check,94.55,1173.55,No,0.745228,High,76.05,True
+9944-HKVVB,3,Month-to-month,Electronic check,95.1,307.4,Yes,0.7430221,High,76.04,True
+5995-SNNEW,23,Month-to-month,Electronic check,104.45,2184.85,No,0.70870835,High,76.0,True
+8443-WVPSS,10,Month-to-month,Electronic check,99.85,990.9,Yes,0.7229778,High,75.83,True
+4298-OYIFC,15,Month-to-month,Electronic check,103.45,1539.8,No,0.7095253,High,75.8,True
+8844-TONUD,13,Month-to-month,Mailed check,96.65,1162.85,Yes,0.73341674,High,75.76,True
+2645-QTLMB,7,Month-to-month,Electronic check,94.25,669.0,Yes,0.7418623,High,75.74,True
+5442-UTCVD,3,Month-to-month,Electronic check,91.85,257.05,Yes,0.7500155,High,75.71,True
+8313-NDOIA,24,Month-to-month,Electronic check,104.15,2494.65,No,0.70494825,High,75.66,True
+2027-FECZV,12,Month-to-month,Electronic check,106.7,1253.9,Yes,0.6956211,High,75.65,True
+2506-CLAKW,6,Month-to-month,Bank transfer (automatic),98.15,567.45,Yes,0.7254308,High,75.58,True
+3934-HXCFZ,23,Month-to-month,Electronic check,99.25,2186.4,Yes,0.7190634,High,75.41,True
+3585-ISXZP,8,Month-to-month,Bank transfer (automatic),95.65,778.1,Yes,0.7316891,High,75.38,True
+1195-OIYEJ,13,Month-to-month,Electronic check,91.1,1135.7,Yes,0.7477517,High,75.36,True
+4735-ASGMA,26,Month-to-month,Electronic check,98.35,2515.3,Yes,0.72117287,High,75.33,True
+3320-VEOYC,14,Month-to-month,Electronic check,95.6,1273.3,No,0.73098975,High,75.32,True
+7218-HKQFK,2,Month-to-month,Electronic check,94.2,167.5,Yes,0.73359656,High,75.15,True
+4813-HQMGZ,8,Month-to-month,Electronic check,90.25,743.75,No,0.7469132,High,75.08,True
+6350-XFYGW,4,Month-to-month,Electronic check,94.75,422.4,No,0.73039156,High,75.06,True
+9889-TMAHG,8,Month-to-month,Credit card (automatic),100.3,832.35,Yes,0.70999974,High,75.04,True
+9600-NAXZN,43,Month-to-month,Electronic check,101.4,4528.0,Yes,0.7034123,High,74.86,True
+9874-QLCLH,17,Month-to-month,Electronic check,104.2,1743.5,Yes,0.69053936,High,74.66,True
+6821-BUXUX,13,Month-to-month,Electronic check,96.65,1244.5,Yes,0.71561915,High,74.51,True
+3318-NMQXL,3,Month-to-month,Electronic check,92.0,266.8,No,0.7313461,High,74.44,True
+5138-WVKYJ,10,Month-to-month,Electronic check,98.55,1008.55,Yes,0.70709425,High,74.39,True
+1723-HKXJQ,42,Month-to-month,Electronic check,101.75,4273.45,Yes,0.6950722,High,74.36,True
+2929-ERCFZ,8,Month-to-month,Electronic check,94.2,777.3,Yes,0.72214687,High,74.35,True
+1960-UYCNN,10,Month-to-month,Electronic check,95.25,1021.55,No,0.71687543,High,74.24,True
+4145-UQXUQ,8,Month-to-month,Electronic check,92.1,729.95,Yes,0.7280924,High,74.23,True
+3793-MMFUH,13,Month-to-month,Electronic check,95.05,1290.0,Yes,0.71726865,High,74.22,True
+8634-MPHTR,47,Month-to-month,Electronic check,100.05,4871.05,Yes,0.69805115,High,74.14,True
+7783-YKGDV,12,Month-to-month,Bank transfer (automatic),99.7,1238.45,Yes,0.6991479,High,74.13,True
+0325-XBFAC,8,Month-to-month,Electronic check,94.7,740.3,Yes,0.7153646,High,74.0,True
+5349-IECLD,2,Month-to-month,Electronic check,94.95,178.1,Yes,0.7140541,High,73.97,True
+9851-QXEEQ,41,Month-to-month,Electronic check,104.7,4346.4,Yes,0.6786608,High,73.96,True
+5937-EORGB,15,Month-to-month,Electronic check,96.5,1392.25,No,0.70781595,High,73.93,True
+3001-UNBTL,29,Month-to-month,Electronic check,103.95,2964.8,No,0.68010527,High,73.87,True
+9851-KIELU,10,Month-to-month,Electronic check,110.1,1043.3,Yes,0.6577088,High,73.85,True
+2025-JKFWI,13,Month-to-month,Mailed check,99.0,1301.7,Yes,0.6977735,High,73.85,True
+9647-ERGBE,30,Month-to-month,Electronic check,100.05,3046.15,Yes,0.69361776,High,73.83,True
+7156-MHUGY,13,Month-to-month,Electronic check,90.5,1201.15,Yes,0.7273314,High,73.78,True
+6393-WRYZE,34,Month-to-month,Electronic check,97.65,3207.55,Yes,0.70159143,High,73.78,True
+0236-HFWSV,15,Month-to-month,Electronic check,93.35,1444.65,Yes,0.71454126,High,73.6,True
+4423-YLHDV,21,Month-to-month,Bank transfer (automatic),104.4,2200.25,Yes,0.674591,High,73.6,True
+0365-BZUWY,17,Month-to-month,Electronic check,102.55,1742.5,No,0.68015957,High,73.52,True
+8111-SLLHI,39,Month-to-month,Electronic check,105.65,4284.8,Yes,0.66814435,High,73.46,True
+4598-XLKNJ,25,Month-to-month,Electronic check,98.5,2514.5,Yes,0.69294405,High,73.39,True
+1658-BYGOY,18,Month-to-month,Electronic check,95.45,1752.55,Yes,0.7034606,High,73.36,True
+9436-ZBZCT,14,Month-to-month,Electronic check,89.95,1178.4,Yes,0.7234062,High,73.36,True
+2472-OVKUP,6,Month-to-month,Electronic check,91.0,531.0,Yes,0.7191504,High,73.33,True
+4433-JCGCG,46,Month-to-month,Electronic check,101.0,4680.05,Yes,0.6815757,High,73.23,True
+4289-DTDKW,40,Month-to-month,Electronic check,101.3,4113.1,Yes,0.68047386,High,73.22,True
+1010-DIAUQ,5,Month-to-month,Bank transfer (automatic),96.5,492.55,Yes,0.69483775,High,73.02,True
+4009-ALQFH,25,Month-to-month,Electronic check,99.5,2369.05,Yes,0.683506,High,72.98,True
+1751-NCDLI,46,Month-to-month,Electronic check,98.85,4564.9,No,0.6822317,High,72.73,True
+8087-LGYHQ,9,Month-to-month,Electronic check,94.05,811.65,No,0.6989457,High,72.69,True
+7426-RHZGU,9,Month-to-month,Bank transfer (automatic),95.9,827.45,No,0.69180906,High,72.65,True
+5382-SOYZL,22,Month-to-month,Electronic check,95.1,2162.6,No,0.69234437,High,72.49,True
+3737-GCSPV,11,Month-to-month,Credit card (automatic),96.2,1222.05,Yes,0.68758124,High,72.43,True
+4094-NSEDU,21,Month-to-month,Electronic check,94.25,1973.75,Yes,0.69284135,High,72.31,True
+6326-MTTXK,8,Month-to-month,Electronic check,100.85,819.55,Yes,0.6689141,High,72.3,True
+6101-IMRMM,6,Month-to-month,Mailed check,94.5,575.45,Yes,0.69075596,High,72.23,True
+9846-GKXAS,9,Month-to-month,Bank transfer (automatic),90.8,809.75,Yes,0.7011999,High,72.02,True
+2800-QQUSO,42,Month-to-month,Electronic check,100.3,4222.95,No,0.6667028,High,72.01,True
+1626-ERCMM,20,Month-to-month,Electronic check,94.55,1899.65,Yes,0.6872765,High,72.0,True
+6646-VRFOL,53,Month-to-month,Electronic check,103.85,5485.5,Yes,0.65373504,High,72.0,True
+7892-POOKP,28,Month-to-month,Electronic check,104.8,3046.05,Yes,0.64984757,High,71.97,True
+9290-SHCMB,13,Month-to-month,Electronic check,96.85,1235.55,No,0.67769676,High,71.91,True
+6402-ZFPPI,25,Month-to-month,Mailed check,102.8,2660.2,Yes,0.6555248,High,71.86,True
+9253-QXKBE,29,Month-to-month,Electronic check,94.45,2653.65,Yes,0.6827618,High,71.65,True
+6651-AZVTJ,49,Month-to-month,Electronic check,99.8,4872.45,Yes,0.6616386,High,71.53,True
+5935-FCCNB,17,Month-to-month,Electronic check,94.2,1608.15,No,0.68046457,High,71.43,True
+3663-MITLP,15,Month-to-month,Electronic check,101.25,1457.25,Yes,0.65461725,High,71.4,True
+0895-DQHEW,54,Month-to-month,Electronic check,104.3,5278.15,Yes,0.6424795,High,71.32,True
+8276-MQBYC,51,Month-to-month,Electronic check,97.8,4913.3,Yes,0.6648368,High,71.25,True
+0916-QOFDP,14,Month-to-month,Electronic check,95.8,1346.3,No,0.67143184,High,71.2,True
+8397-MVTAZ,34,Month-to-month,Electronic check,100.05,3480.0,Yes,0.65505797,High,71.13,True
+7402-EYFXX,26,Month-to-month,Electronic check,93.6,2404.1,No,0.6778756,High,71.1,True
+3452-GWUIN,19,Month-to-month,Electronic check,94.95,1760.25,No,0.6731044,High,71.1,True
+7480-QNVZJ,50,Month-to-month,Electronic check,95.7,4816.7,Yes,0.6696523,High,71.05,True
+7225-CBZPL,17,Month-to-month,Electronic check,94.8,1563.9,No,0.6714508,High,70.95,True
+8429-XIBUM,22,Month-to-month,Bank transfer (automatic),101.35,2317.1,Yes,0.6472232,High,70.91,True
+3186-BAXNB,1,Month-to-month,Electronic check,91.7,91.7,Yes,0.68185675,High,70.9,True
+5168-MSWXT,8,Month-to-month,Electronic check,94.75,759.55,No,0.6697728,High,70.82,True
+7901-TBKJX,56,Month-to-month,Electronic check,101.05,5594.0,No,0.6459777,High,70.75,True
+9360-OMDZZ,24,Month-to-month,Electronic check,94.1,2322.85,No,0.6702906,High,70.69,True
+6100-QQHEB,17,Month-to-month,Electronic check,92.55,1515.1,Yes,0.6757524,High,70.68,True
+3565-UNOCC,29,Month-to-month,Bank transfer (automatic),99.05,2952.85,Yes,0.64974016,High,70.5,True
+5655-JSMZM,49,Month-to-month,Electronic check,96.2,4718.25,Yes,0.66001725,High,70.5,True
+0946-CLJTI,58,Month-to-month,Electronic check,98.7,5812.6,Yes,0.65087014,High,70.5,True
+7028-DVOIQ,35,Month-to-month,Electronic check,99.05,3395.8,Yes,0.6484691,High,70.42,True
+5129-JLPIS,25,Month-to-month,Electronic check,105.5,2686.05,No,0.6247879,High,70.39,True
+9919-KNPOO,21,Month-to-month,Electronic check,94.3,1948.35,No,0.66498005,High,70.37,True
+0302-JOIVN,8,Month-to-month,Electronic check,101.15,842.9,Yes,0.63970655,High,70.33,True
+7145-FEJWU,12,Month-to-month,Electronic check,105.3,1275.65,No,0.6224138,High,70.17,True
+0952-KMEEH,13,Month-to-month,Mailed check,98.15,1230.25,Yes,0.6482717,High,70.17,True
+9189-JWSHV,24,Month-to-month,Electronic check,93.55,2264.05,Yes,0.6641637,High,70.13,True
+2985-FMWYF,23,Month-to-month,Electronic check,93.5,2341.55,No,0.66386706,High,70.09,True
+2034-CGRHZ,24,Month-to-month,Credit card (automatic),102.95,2496.7,Yes,0.6296991,High,70.09,True
+2568-OIADY,37,Month-to-month,Electronic check,99.5,3762.0,Yes,0.6402661,High,69.96,True
+7056-IMHCC,53,Month-to-month,Electronic check,101.9,5549.4,Yes,0.6312629,High,69.93,True
+6734-GMPVK,5,Month-to-month,Electronic check,105.3,550.6,No,0.6187774,High,69.92,True
+0886-QGENL,27,Month-to-month,Electronic check,101.25,2754.45,Yes,0.63326216,High,69.91,True
+7668-XCFYV,17,Month-to-month,Electronic check,92.55,1614.7,No,0.6626586,High,69.77,True
+5649-ANRML,2,Month-to-month,Credit card (automatic),95.1,180.25,Yes,0.65296,High,69.73,True
+0420-HLGXF,39,Month-to-month,Electronic check,99.75,4036.0,No,0.6354797,High,69.68,True
+1264-BYWMS,55,Month-to-month,Electronic check,96.8,5283.95,Yes,0.64579564,High,69.66,True
+0337-CNPZE,41,Month-to-month,Electronic check,106.3,4443.45,Yes,0.61130655,High,69.65,True
+3384-CTMSF,47,Month-to-month,Electronic check,104.1,5135.15,No,0.6189085,High,69.62,True
+6851-WEFYX,35,Month-to-month,Electronic check,100.8,3437.5,No,0.6283542,High,69.45,True
+8868-WOZGU,28,Month-to-month,Electronic check,105.7,2979.5,Yes,0.610728,High,69.45,True
+8266-VBFQL,4,Month-to-month,Electronic check,90.4,356.65,No,0.6652505,High,69.41,True
+2665-NPTGL,26,Month-to-month,Bank transfer (automatic),98.1,2510.7,No,0.6372952,High,69.39,True
+2080-CAZNM,41,Month-to-month,Electronic check,104.4,4133.95,No,0.6141887,High,69.37,True
+2357-COQEK,28,Month-to-month,Electronic check,103.3,2890.65,Yes,0.6182322,High,69.37,True
+7599-FKVXZ,42,Month-to-month,Bank transfer (automatic),106.15,4512.7,Yes,0.6054207,High,69.2,True
+9763-PDTKK,4,Month-to-month,Bank transfer (automatic),94.4,387.2,Yes,0.64744586,High,69.17,True
+6518-LGAOV,38,Month-to-month,Electronic check,105.0,4026.4,Yes,0.60845953,High,69.12,True
+5183-SNMJQ,10,Month-to-month,Credit card (automatic),95.1,865.1,No,0.64248747,High,69.0,True
+4958-XCBDQ,35,Month-to-month,Electronic check,101.4,3496.3,Yes,0.6194203,High,68.98,True
+9658-WYUFB,17,Month-to-month,Electronic check,94.4,1617.5,Yes,0.64452237,High,68.96,True
+4686-UXDML,21,Month-to-month,Credit card (automatic),99.85,1992.55,No,0.6241879,High,68.92,True
+2754-VDLTR,10,Month-to-month,Electronic check,95.2,930.4,Yes,0.64004153,High,68.85,True
+0432-CAJZV,3,Month-to-month,Mailed check,90.7,237.65,No,0.6550588,High,68.77,True
+9420-LOJKX,15,Month-to-month,Credit card (automatic),99.1,1426.4,Yes,0.623342,High,68.67,True
+4902-OHLSK,29,Month-to-month,Electronic check,98.65,2862.75,Yes,0.62384844,High,68.59,True
+0447-RXSGD,24,Month-to-month,Bank transfer (automatic),99.65,2404.85,No,0.61964685,High,68.55,True
+3096-GKWEB,18,Month-to-month,Electronic check,94.75,1691.9,No,0.636701,High,68.51,True
+6029-WTIPC,37,Month-to-month,Electronic check,101.1,3744.05,Yes,0.61377585,High,68.51,True
+3703-VAVCL,2,Month-to-month,Credit card (automatic),90.0,190.05,Yes,0.6538263,High,68.5,True
+5480-TBGPH,24,Month-to-month,Credit card (automatic),99.3,2431.35,Yes,0.6202667,High,68.5,True
+5955-ERIHD,18,Month-to-month,Electronic check,94.7,1687.95,Yes,0.636701,High,68.49,True
+4566-NECEV,5,Month-to-month,Electronic check,96.55,500.1,No,0.62939423,High,68.45,True
+4062-HBMOS,52,Month-to-month,Electronic check,103.05,5364.8,No,0.60535216,High,68.41,True
+8063-RJYNF,16,Month-to-month,Electronic check,94.25,1483.25,Yes,0.6361915,High,68.34,True
+5747-PMBSQ,10,Month-to-month,Mailed check,92.5,934.1,Yes,0.64165455,High,68.28,True
+7952-OBOYL,3,Month-to-month,Mailed check,89.85,244.45,No,0.65108246,High,68.27,True
+1254-IZEYF,31,Month-to-month,Electronic check,99.95,3186.65,Yes,0.61318403,High,68.17,True
+2474-BRUCM,40,Month-to-month,Electronic check,101.85,4086.3,Yes,0.60562354,High,68.12,True
+8413-VONUO,2,Month-to-month,Electronic check,95.65,167.3,Yes,0.6279952,High,68.12,True
+6543-XRMYR,30,Month-to-month,Electronic check,99.7,2967.35,Yes,0.61211336,High,68.04,True
+5244-IRFIH,33,Month-to-month,Electronic check,94.5,3105.55,Yes,0.6288093,High,67.89,True
+1666-JXLKU,37,Month-to-month,Electronic check,100.05,3810.55,No,0.6082541,High,67.85,True
+7029-RPUAV,17,Month-to-month,Credit card (automatic),100.45,1622.45,Yes,0.6056153,High,67.77,True
+2371-JQHZZ,24,Month-to-month,Electronic check,93.0,2248.05,No,0.631275,High,67.68,True
+9133-AYJZG,23,Month-to-month,Credit card (automatic),98.7,2249.1,No,0.609276,High,67.58,True
+7321-PKUYW,11,Month-to-month,Electronic check,90.15,987.95,Yes,0.6399499,High,67.57,True
+9692-TUSXH,18,Month-to-month,Electronic check,96.05,1740.7,Yes,0.61845785,High,67.56,True
+8784-CGILN,18,Month-to-month,Bank transfer (automatic),99.85,1776.95,Yes,0.60451055,High,67.54,True
+1771-OADNZ,29,Month-to-month,Electronic check,95.9,2745.2,Yes,0.6186286,High,67.53,True
+0939-YAPAF,35,Month-to-month,Electronic check,100.25,3527.6,Yes,0.60144883,High,67.43,True
+5364-XYIRR,51,Month-to-month,Electronic check,94.65,4812.75,Yes,0.6166149,High,67.07,True
+6899-PPEEA,37,Month-to-month,Electronic check,96.55,3580.3,Yes,0.6006928,High,66.44,True
+1379-FRVEB,15,Month-to-month,Electronic check,91.0,1430.05,No,0.62073296,High,66.44,True
+8393-DLHGA,25,Month-to-month,Electronic check,95.9,2448.75,Yes,0.6027748,High,66.42,True
+2984-AFWNC,3,Month-to-month,Electronic check,95.4,293.15,No,0.6018471,High,66.23,True
+5609-CEBID,20,Month-to-month,Electronic check,94.1,1782.4,Yes,0.60417676,High,66.07,True
+6818-DJXAA,10,Month-to-month,Electronic check,91.1,964.35,No,0.60572773,High,65.42,True
+5091-HFAZW,2,Month-to-month,Electronic check,91.15,168.5,No,0.6026544,High,65.21,True
