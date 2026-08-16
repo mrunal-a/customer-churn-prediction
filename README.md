@@ -195,3 +195,13 @@ customer-churn-prediction/
 │
 ├── README.md
 └── requirements.txt
+
+## 📊 Project Screenshots
+
+### Power BI Dashboard
+
+![Power BI Dashboard](screenshots/powerbi-dashboard.jpeg)
+
+### Streamlit Prediction App
+
+![Streamlit App](screenshots/streamlit-app.jpeg)
